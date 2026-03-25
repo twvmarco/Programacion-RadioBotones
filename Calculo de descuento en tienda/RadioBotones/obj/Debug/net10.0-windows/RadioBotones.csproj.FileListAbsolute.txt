@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\bin\Debug\net10.0-windows\RadioBotones.exe
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\bin\Debug\net10.0-windows\RadioBotones.deps.json
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\bin\Debug\net10.0-windows\RadioBotones.runtimeconfig.json
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\bin\Debug\net10.0-windows\RadioBotones.dll
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\bin\Debug\net10.0-windows\RadioBotones.pdb
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.Form1.resources
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.AssemblyInfo.cs
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.dll
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\refint\RadioBotones.dll
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.pdb
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\RadioBotones.genruntimeconfig.cache
+C:\Users\marco\Desktop\Aprender\RadioBotones\RadioBotones\obj\Debug\net10.0-windows\ref\RadioBotones.dll
