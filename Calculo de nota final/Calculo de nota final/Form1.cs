@@ -24,9 +24,9 @@ namespace Calculo_de_nota_final
             }
 
             if (rbPresencial.Checked)
-                jornada = "Matutina";
+                jornada = "Presenmcial";
             else if (rbDistancia.Checked)
-                jornada = "Vespertina";
+                jornada = "Distancia";
             else
             {
                 MessageBox.Show("Seleccione una jornada");
