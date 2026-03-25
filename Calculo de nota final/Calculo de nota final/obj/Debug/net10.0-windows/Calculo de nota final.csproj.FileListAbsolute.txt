@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\bin\Debug\net10.0-windows\Calculo de nota final.exe
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\bin\Debug\net10.0-windows\Calculo de nota final.deps.json
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\bin\Debug\net10.0-windows\Calculo de nota final.runtimeconfig.json
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\bin\Debug\net10.0-windows\Calculo de nota final.dll
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\bin\Debug\net10.0-windows\Calculo de nota final.pdb
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo_de_nota_final.Form1.resources
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.AssemblyInfo.cs
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.dll
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\refint\Calculo de nota final.dll
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.pdb
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\Calculo de nota final.genruntimeconfig.cache
+C:\Users\marco\Desktop\Aprender\Calculo de nota final\Calculo de nota final\obj\Debug\net10.0-windows\ref\Calculo de nota final.dll
